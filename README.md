@@ -43,16 +43,16 @@ Pages: Uygulamanın temel ekranlarını (Giriş, Portföy, Analiz, Haberler) olu
 ## Uygulama Ekran Goruntuleri
 
 ### Portfoy Yonetimi
-![Portfoy Sayfasi](screenshots/Portföy.png)
+![Portfoy Sayfasi](screenshots/Portföy.PNG)
 
 ### Piyasa Analizi ve Grafikler
-![Analiz Sayfasi](screenshots/Analiz.png)
+![Analiz Sayfasi](screenshots/Analiz.PNG)
 
 ### Sage West Yapay Zeka Destegi
-![Yapay Zeka](screenshots/ai.png)
+![Yapay Zeka](screenshots/ai.PNG)
 
 ### CNN Turk Ekonomi Haberleri
-![Haberler Sayfasi](screenshots/Haberler.png)
+![Haberler Sayfasi](screenshots/Haberler.PNG)
 
 ### Kullanici Profili
-![Profil Sayfasi](screenshots/Profil.png)
+![Profil Sayfasi](screenshots/Profil.PNG)
