@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61504805152",
+    "project_id": "sagewest-67be1",
+    "storage_bucket": "sagewest-67be1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61504805152:android:5d551a4076113f57861f45",
+        "android_client_info": {
+          "package_name": "com.example.borsatakip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv8pWW3ceJ4ihPL_1wZyvF_tZsKZIUCEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

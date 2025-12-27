@@ -1,0 +1,30 @@
+# Flutter/Dart Gereksiz Dosyaları
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android Gereksiz Dosyaları
+.gradle/
+local.properties
+*.keystore
+*.jks
+captures/
+
+# iOS/macOS Gereksiz Dosyaları
+.generated/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+.DS_Store
+
+# IDE (VS Code & Android Studio) Ayarları
+.vscode/
+.idea/
+*.iml
+
+# Log ve Geçici Dosyalar
+*.log
